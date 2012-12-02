@@ -1,0 +1,135 @@
+(S (NP 891003-0025/CD) ./.)
+(S (NP =/NN 891003/CD 891003-0025/CD) ./.)
+(S
+  (NP
+    McDonnell/NNP
+    Douglas/NNP
+    @/NNP
+    Gets/NNPS
+    $/$
+    98.9/CD
+    Million/CD
+    @/CD
+    Air/NNP
+    Force/NNP
+    Contract/NNP
+    10/03/89/CD
+    WALL/NNP
+    STREET/NNP
+    JOURNAL/NNP
+    (/NNP
+    J/NNP
+    )/NNP
+    MD/NNP
+    ROK/NNP
+    BA/NNP
+    TXT/NNP
+    RLM/NNP
+    RTN/NNP
+    IBM/NNP
+    LOR/NNP
+    DEFENSE/NNP
+    DEPARTMENT/NNP
+    (/NNP
+    DEF/NNP
+    )/NNP
+    WASHINGTON/NNP
+    McDonnell/NNP
+    Douglas/NNP
+    Corp./NNP)
+  (VP was/VBD given/VBN)
+  (NP a/DT $/$ 98.9/CD million/CD Air/NNP Force/NNP contract/NN)
+  (PP for/IN)
+  (NP F-15/NN aircraft/NN parts/NNS)
+  ./.)
+(S
+  (NP Rockwell/NNP International/NNP Corp./NNP)
+  (VP won/VBD)
+  (NP a/DT $/$ 73.3/CD million/CD Air/NNP Force/NNP contract/NN)
+  (PP for/IN)
+  (NP B-1B/NN aircraft/NN repair/NN)
+  ./.)
+(S
+  (NP Aerojet/NNP General/NNP Corp./NNP)
+  (VP was/VBD awarded/VBN)
+  (NP $/$ 52/CD million/CD)
+  (PP in/IN)
+  (NP contracts/NNS)
+  (PP for/IN)
+  (NP Air/NNP Force/NNP satellite/NN launch/NN support/NN)
+  and/CC
+  (NP Army/NNP space/NN boosters/NNS)
+  ./.)
+(S
+  (NP A/DT joint/JJ venture/NN)
+  (PP of/IN)
+  (NP Boeing/NNP Co./NNP)
+  and/CC
+  (NP Bell/NNP Helicopter/NNP Textron/NNP Inc./NNP)
+  ,/,
+  (NP a/DT unit/NN)
+  (PP of/IN)
+  (NP Textron/NNP Inc./NNP)
+  ,/,
+  (VP won/VBD)
+  (NP a/DT $/$ 38/CD million/CD Navy/NNP contract/NN)
+  (PP for/IN)
+  (NP V-22/NN aircraft/NN development/NN)
+  ./.)
+(S
+  (NP Reynolds/NNS Metals/NNS Co./NNP)
+  (VP got/VBD)
+  (NP a/DT $/$ 32.2/CD million/CD Army/NNP contract/NN)
+  (PP for/IN)
+  (NP pipe/NN parts/NNS)
+  ./.)
+(S
+  (NP Avco/NNP Corp./NNP)
+  (VP was/VBD issued/VBN)
+  (NP a/DT $/$ 24.6/CD million/CD Army/NNP contract/NN)
+  (PP for/IN)
+  (NP helicopter/NN engines/NNS)
+  ./.)
+(S
+  (NP Boeing/NNP)
+  (VP got/VBD)
+  (NP a/DT $/$ 20.5/CD million/CD Air/NNP Force/NNP contract/NN)
+  (PP for/IN)
+  (NP B-1B/NN aircraft/NN repair/NN)
+  ./.)
+(S
+  (NP Bamsi/NNP Inc./NNP)
+  (VP received/VBD)
+  (NP an/DT $/$ 18.7/CD million/CD Army/NNP contract/NN)
+  (PP for/IN)
+  (NP installation/NN support/NN)
+  ./.)
+(S
+  (NP Tracor/NNP Inc./NNP)
+  (VP received/VBD)
+  (NP a/DT $/$ 17.6/CD million/CD Air/NNP Force/NNP contract/NN)
+  (PP for/IN)
+  (NP drone/NN aircraft/NN and/CC)
+  (NP aircraft/NN electronics/NNS)
+  ./.)
+(S
+  (NP Raytheon/NNP Co./NNP)
+  (VP was/VBD awarded/VBN)
+  (NP a/DT $/$ 15.6/CD million/CD Air/NNP Force/NNP contract/NN)
+  (PP for/IN)
+  (NP radar/NN)
+  ./.)
+(S
+  (NP International/NNP Business/NNP Machines/NNPS Corp./NNP)
+  (VP won/VBD)
+  (NP a/DT $/$ 15.4/CD million/CD Air/NNP Force/NNP contract/NN)
+  (PP for/IN)
+  (NP computers/NNS)
+  ./.)
+(S
+  (NP Loral/NNP Corp./NNP)
+  (VP received/VBD)
+  (NP a/DT $/$ 13.3/CD million/CD Navy/NNP contract/NN)
+  (PP for/IN)
+  (NP chaff/NN cartridges/NNS)
+  ./.)
